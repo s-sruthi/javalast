@@ -13,8 +13,6 @@ public class Showroom {
 			return new MarutiCar();
 		case 2:
 			return new ToyotaCar();
-		case 3:
-			return new Bike();
 		default:
 			return null;
 				

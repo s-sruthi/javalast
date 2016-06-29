@@ -5,7 +5,8 @@ import com.training.ifaces.Automobile;
 public class MarutiCar implements Automobile {
 
 	@Override
-	public double getPrice() {
+	public double getPrice() 
+	{
 		// TODO Auto-generated method stub
 		return 7000000.00D;
 	}
